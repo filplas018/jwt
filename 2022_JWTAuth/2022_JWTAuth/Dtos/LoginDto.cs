@@ -1,0 +1,8 @@
+﻿namespace _2022_JWTAuth.Dtos
+{
+    public class LoginDto
+    {
+        public string Email { get; set; }
+        public string Password { get; set; }
+    }
+}
